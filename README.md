@@ -2,7 +2,7 @@
 
 This repository showcases my projects at the intersection of AI and business analytics.
 
-## 📘 Responsible AI 101 for Business Teams
+## 📘 Responsible AI  for Business Teams
 
 A simple guide created to help non-technical teams understand how to use AI fairly and responsibly.
 
